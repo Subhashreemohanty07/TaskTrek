@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskTrek/static/css/main.71d0ba56.css",
+    "main.js": "/TaskTrek/static/js/main.88d529e8.js",
+    "static/js/453.ac79db8d.chunk.js": "/TaskTrek/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/TaskTrek/index.html",
+    "main.71d0ba56.css.map": "/TaskTrek/static/css/main.71d0ba56.css.map",
+    "main.88d529e8.js.map": "/TaskTrek/static/js/main.88d529e8.js.map",
+    "453.ac79db8d.chunk.js.map": "/TaskTrek/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d0ba56.css",
+    "static/js/main.88d529e8.js"
+  ]
+}
