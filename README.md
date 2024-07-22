@@ -20,7 +20,7 @@
 ![Screenshot 2024-07-21 032413](https://github.com/user-attachments/assets/928fa88f-799d-4155-a34b-d8140a4bbd7a)
 <p>All list of todo task and completed task are store in the local storage.</p><br><br>
 <h3>Deploy Using GitHub page</h3>
-<p>Here is the link:</p><br>
+<p>Here is the link:</p>
 https://Subhashreemohanty07.github.io/TaskTrek
 
 
